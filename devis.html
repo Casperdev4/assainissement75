@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords"
+        content="développeur web, conception de sites web, développement d'applications, site vitrine, site e-commerce, site catalogue, référencement naturel">
+    <meta name="robots" content="index, follow">
+    <meta name="description"
+        content="Bienvenue chez WebPrime, votre partenaire pour des sites web sur mesure. Experts en Référencement naturel et Google Ads. Nous boostons votre visibilité en ligne.">
+    <link href="style.css" rel="stylesheet">
+    <title>Assainissement 94 | Devis Gratuit</title>
+    <link rel="icon" type="image/x-icon" href="https://webprime.fr/logo/favicon.ico">
+    <link rel="apple-touch-icon" type="image/png" sizes="96x96" href="https://webprime.fr/logo/apple-icon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://webprime.fr/logo/android-icon-32x32.png">
+    <link rel="manifest" href="https://webprime.fr/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://webprime.fr/logo/ms-icon-32x32.png">
+    <meta name="theme-color" content="#ffffff">
+</head>
+
+<body>
+    <nav class="navbar">
+        <a href="index.html" class="logo-link">
+            <img src="logo.webp" alt="" class="logo">
+        </a>
+        <label for="btn" class="icon">
+            <svg viewBox="0 0 100 80" width="40" height="40">
+                <rect width="80" height="11"></rect>
+                <rect y="26" width="60" height="11"></rect>
+                <rect y="52" width="70" height="11"></rect>
+            </svg>
+        </label>
+        <input type="checkbox" id="btn">
+        <ul class="nav-menu">
+            <li class="nav-item">
+                <a href="index.html">Accueil</a>
+            </li>
+            <li class="nav-item">
+                <a href="index.html#prestation">Nos Prestations</a>
+            </li>
+            <li class="nav-item">
+                <a href="aquaserv.html">L'entreprise</a>
+            </li>
+            <li class="nav-item">
+                <a href="devis.html">Devis Gratuit</a>
+            </li>
+        </ul>
+    </nav>
+    <div class="image-index">
+        <h1>DEVIS - GRATUIT</h1>
+        <a class="bouton-devis1" href="tel:0169520023"> CONTACT</a>
+    </div>
+    <h2>CONTACTEZ - NOUS</h2>
+    <div class="form-container">
+        <div class="image-container"><img src="logo.webp" alt="">
+        </div>
+        <form action="process.php" method="post">
+
+            <label for="departure">Nom :</label>
+            <input type="text" id="name" name="nom" required>
+
+            <label for="departure">E-mail :</label>
+            <input type="text" id="departure" name="tel" required>
+
+            <label for="departure">Téléphone :</label>
+            <input type="text" id="tel" name="telephone" required>
+
+            <label for="date">Date souhaité :</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="time">Heure de passage souhaité :</label>
+            <input type="time" id="time" name="time" required>
+
+            <label for="passengers">Prestations :</label>
+            <select id="passengers" name="passengers" required>
+                <option value="1">DÉGORGEMENT</option>
+                <option value="2">CURAGE</option>
+                <option value="3">INSPECTION CAMÉRA</option>
+                <option value="3">POMPAGE</option>
+                <option value="3">POMPE DE RELEVAGE</option>
+            </select>
+            <button type="submit">ENVOYER</button>
+        </form>
+    </div>
+    <div id="contact">
+        <h4>HORAIRES</h4>
+        <p>Lundi : 06h - 00h30 <br>
+            Mardi : 06h - 00h30 <br>
+            Mercredi : 06h - 00h30 <br>
+            Jeudi : 06h - 00h30 <br>
+            Vendredi : 06h - 00h30 <br>
+            Samedi : 06h - 00h30 <br>
+            Dimanche : 06h - 00h30 <br><br>
+            Adresse : 9 Rue Condorcet, 91350 Grigny
+        </p>
+        <h4>CONTACTEZ NOUS</h4>
+        <p class="liens">Tel : <a href="tel:0169520023" target="_blank"> 01 69 52 00 23</a></p>
+        <p class="liens">E-mail : <a href="mailto:webprie@kdkd" target="_blank">contact.aquaserv94@gmail.com</a></p>
+        <div class="liens-wp">
+            <p>Site réalisé par <a href="https://webprime.fr/" target="_blank">webprime</a> - <a href=""
+                    target="_blank">mentions légales</a>.
+            </p>
+        </div>
+    </div>
+    <div class="contact-icon"><a href="tel:0169520023">01 69 52 00 23</a></div>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg .com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script>
+        const list = document.querySelectorAll('.list');
+        function activeLink() {
+            list.forEach((item) =>
+                item.classList.remove('active'));
+            this.classList.add('active');
+        }
+        list.forEach((item) =>
+            item.addEventListener('mouseover', activeLink));
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var menuToggle = document.getElementById("btn");
+            var navLinks = document.querySelectorAll(".nav-menu a");
+
+            // Ferme le menu lorsqu'un lien est cliqué
+            navLinks.forEach(function (link) {
+                link.addEventListener("click", function () {
+                    menuToggle.checked = false;
+                });
+            });
+        });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.5
+            };
+
+            function observeStep(entry, observer) {
+                entry.target.classList.add('slide-in-done');
+                observer.unobserve(entry.target);
+            }
+
+            function createObserver(element) {
+                var observer = new IntersectionObserver(function (entries) {
+                    entries.forEach(function (entry) {
+                        if (entry.isIntersecting) {
+                            observeStep(entry, observer);
+                        }
+                    });
+                }, observerOptions);
+
+                observer.observe(element);
+            }
+
+            // Observer chaque élément .valeur
+            var elements = document.querySelectorAll('.valeur');
+            elements.forEach(function (element) {
+                createObserver(element);
+            });
+        });
+
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const options = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.8
+            };
+
+            const observer = new IntersectionObserver(entries => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('slide-up');
+                    }
+                });
+            }, options);
+
+            const elements = document.querySelectorAll('.icon-anime h3, .bouton-devis3');
+
+            elements.forEach(element => {
+                observer.observe(element);
+            });
+        });
+    </script>
+
+</body>
+
+</html>
