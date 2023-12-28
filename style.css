@@ -33,16 +33,23 @@ h2 {
   color: rgb(1, 0, 44);
   text-align: center;
   margin-top: 10%;
-  font-size: 80px;
+  margin-bottom: 2%;
+  font-size: 45px;
   font-weight: 530;
+  margin-left: 3%;
+  margin-right: 3%;
 }
 
 h3 {
   color: rgb(2, 0, 60);
   text-align: center;
   font-weight: 200;
-  font-size: 15px;
-  margin-top: 3%;
+  font-size: 18px;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+  line-height: 1.5;
 }
 
 h4 {
@@ -274,18 +281,14 @@ h4 {
 .icon-item3,
 .icon-item4 {
   text-align: center;
-  margin: 0 5px;
+  margin-top: 5%;
+  margin-bottom: 15%;
 }
 
 .icon-item1 img,
-.icon-item3 img {
-  width: 40%;
-  height: auto;
-}
-
-.icon-item2 img,
+.icon-item3 img, .icon-item2 img,
 .icon-item4 img {
-  width: 40%;
+  width: 60%;
   height: auto;
 }
 
@@ -295,7 +298,7 @@ h4 {
 .icon-item4 p {
   margin: 5px 0 0;
   padding: 8px;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .realisation {
@@ -307,6 +310,33 @@ h4 {
 .realisation img {
   width: 20%;
   height: auto;
+}
+
+.contenu img {
+  display: flex;
+  justify-content: center;
+  width: 25%;
+  margin-top: 7%;
+  margin-bottom: 5%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contenu h3 {
+  font-size: 22px;
+  margin-bottom: 3%;
+}
+
+.contenu2 img {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  height: auto;
+  margin-top: 7%;
+  margin-bottom: 5%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #contact {
@@ -451,6 +481,10 @@ h4 {
 
 #passengers {
   font-size: 15px;
+}
+
+.contact-icon, .icon-anime {
+  display: none;
 }
 
 
@@ -925,6 +959,10 @@ h4 {
 
   #passengers {
     font-size: 15px;
+  }
+
+  .icon-anime-pc {
+    display: none;
   }
 
 
