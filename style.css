@@ -141,6 +141,7 @@ h4 {
 }
 
 .valeur .confiance ion-icon {
+  color: rgb(1, 0, 44);
   margin-left: 4%;
   margin-top: 2%;
 }
