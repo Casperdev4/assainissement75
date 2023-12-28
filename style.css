@@ -135,14 +135,13 @@ h4 {
   align-items: center;
   margin-top: 5%;
   margin-left: 2%;
-  color: #ff9f0f;
   font-size: 35px;
   text-align: left;
 }
 
 .valeur .confiance ion-icon {
   color: rgb(1, 0, 44);
-  margin-left: 4%;
+  margin-left: 2%;
   margin-top: 2%;
 }
 
