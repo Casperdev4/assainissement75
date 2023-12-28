@@ -301,13 +301,14 @@ h4 {
   font-size: 22px;
 }
 
-.realisation {
+.realisation-pc {
   display: flex;
   justify-content: center;
   margin-top: 5%;
+  gap: 5%;
 }
 
-.realisation img {
+.realisation-pc img {
   width: 20%;
   height: auto;
 }
@@ -483,7 +484,7 @@ h4 {
   font-size: 15px;
 }
 
-.contact-icon, .icon-anime {
+.contact-icon, .icon-anime, .realisation {
   display: none;
 }
 
@@ -961,7 +962,7 @@ h4 {
     font-size: 15px;
   }
 
-  .icon-anime-pc {
+  .icon-anime-pc, .realisation-pc {
     display: none;
   }
 
