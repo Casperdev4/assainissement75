@@ -277,6 +277,12 @@ h4 {
   margin-top: 5%;
 }
 
+.icon-anime-pc h3 {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.5s, transform 0.5s;
+}
+
 .icon-item1,
 .icon-item2,
 .icon-item3,
@@ -300,6 +306,12 @@ h4 {
   margin: 5px 0 0;
   padding: 8px;
   font-size: 22px;
+}
+
+.icon-anime-pc h3.slide-up,
+.bouton-devis3.slide-up {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .realisation-pc {
@@ -398,6 +410,9 @@ h4 {
 }
 
 .bouton-devis3 {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.5s, transform 0.5s;
   display: flex;
   justify-content: center;
   background-color: #ff9f0f;
