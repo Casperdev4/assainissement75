@@ -502,6 +502,22 @@ h4 {
   font-size: 15px;
 }
 
+.partenaires-pc {
+  display: flex;
+  justify-content: center;
+}
+
+.partenaires-pc img {
+  width: 80%;
+  height: auto;
+}
+
+.partenaires-pc a {
+  display: flex;
+  justify-content: center;
+  margin-bottom: -2%;
+}
+
 .reseau-contact {
   text-align: center;
 }
