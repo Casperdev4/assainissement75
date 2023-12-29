@@ -506,6 +506,15 @@ h4 {
   text-align: center;
 }
 
+.reseau-contact a {
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.reseau-contact ion-icon {
+  font-size: 18px;
+}
+
 .contact-icon, .icon-anime, .realisation {
   display: none;
 }
@@ -890,6 +899,7 @@ h4 {
     margin: 0;
     margin-bottom: 3%;
     color: #ffffff;
+    font-size: 15px;
   }
 
   .contact-icon {
@@ -989,6 +999,16 @@ h4 {
 
   .reseau-contact {
     text-align: center;
+    margin-bottom: 13%;
+  }
+
+  .reseau-contact a {
+    font-size: 13px;
+    color: #ffffff;
+  }
+  
+  .reseau-contact ion-icon {
+    font-size: 16px;
   }
 
   .icon-anime-pc, .realisation-pc {
