@@ -747,7 +747,7 @@ h4 {
     opacity: 0;
     transform: translateY(50px);
     transition: opacity 0.5s, transform 0.5s;
-    margin-top: 5%;
+    margin-top: 3%;
   }
 
   .icon-anime h3.slide-up,
@@ -779,10 +779,7 @@ h4 {
   .icon-item2 p,
   .icon-item3 p,
   .icon-item4 p {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -150%);
+    margin-bottom: 0;
     font-size: 22px;
     letter-spacing: 2px;
   }
