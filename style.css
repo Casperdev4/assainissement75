@@ -531,6 +531,15 @@ h4 {
   font-size: 18px;
 }
 
+.liens-wp a,
+.liens-wp h6 {
+  font-size: 13px;
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+  margin-top: 3%;
+}
+
 .contact-icon, .icon-anime, .realisation {
   display: none;
 }
@@ -938,8 +947,12 @@ h4 {
   }
 
   .liens-wp a,
-  .liens-wp p {
-    font-size: 15px;
+  .liens-wp h6 {
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 5%;
   }
 
   .form-container {
