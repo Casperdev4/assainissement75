@@ -540,7 +540,7 @@ h4 {
   margin-top: 3%;
 }
 
-.contact-icon, .icon-anime, .realisation {
+.contact-icon, .icon-anime, .realisation, .partenaires {
   display: none;
 }
 
@@ -909,6 +909,26 @@ h4 {
     margin: 0 2%;
   }
 
+  .partenaires {
+    display: block;
+    margin-top: -7%;
+    margin-bottom: -15%;
+  }
+
+  .partenaires a {
+    display: flex;
+    justify-content: center;
+  }
+
+  .partenaires img {
+    width: 50%;
+    margin-top: -5%;
+    margin-bottom: -5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   #contact {
     padding-top: 4%;
     padding-bottom: 4%;
@@ -1041,7 +1061,7 @@ h4 {
     font-size: 16px;
   }
 
-  .icon-anime-pc, .realisation-pc {
+  .icon-anime-pc, .realisation-pc, .partenaires-pc {
     display: none;
   }
 
