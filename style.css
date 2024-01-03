@@ -251,7 +251,7 @@ h4 {
 }
 
 .image-index {
-  background-image: url('aquaserv.jpg');
+  background-image: url('aquaserv.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -686,7 +686,7 @@ h4 {
   }
 
   .image-index {
-    background-image: url('aquaserv.jpg');
+    background-image: url('aquaserv.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
