@@ -505,16 +505,14 @@ h4 {
 .partenaires-pc {
   display: flex;
   justify-content: center;
+  width: 100%;
+  height: auto;
+  gap: 4%;
 }
 
 .partenaires-pc img {
-  width: 80%;
+  width: 20%;
   height: auto;
-}
-
-.partenaires-pc a {
-  display: flex;
-  justify-content: center;
   margin-bottom: -2%;
 }
 
