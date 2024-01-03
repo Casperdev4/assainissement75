@@ -399,7 +399,7 @@ h4 {
 .bouton-devis2 {
   display: flex;
   justify-content: center;
-  background-color: #009DE0;
+  background-color: #ffa929;
   color: #ffffff;
   font-size: 22px;
   padding: 2%;
@@ -880,7 +880,7 @@ h4 {
   }
 
   .bouton-devis2 {
-    background-color: #009DE0;
+    background-color: #ffa929;
     font-size: 20px;
     margin-top: 5%;
     margin-bottom: 7%;
