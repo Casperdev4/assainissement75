@@ -70,7 +70,7 @@ h4 {
 }
 
 .histoire {
-  background-color: #3498db;
+  background-color: #297fb8;
   padding: 2%;
   width: 80%;
   margin-left: auto;
@@ -90,7 +90,7 @@ h4 {
 }
 
 #tarif {
-  background-color: #3498db;
+  background-color: #297fb8;
   padding: 2%;
   width: 80%;
   margin-left: auto;
@@ -114,7 +114,7 @@ h4 {
 }
 
 .valeur {
-  background-color: #3498db;
+  background-color: #297fb8;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -202,7 +202,7 @@ h4 {
 }
 
 .icon {
-  fill: #3498db;
+  fill: #297fb8;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -247,7 +247,7 @@ h4 {
 
 .nav-menu a:hover,
 .show:hover {
-  color: #3498db;
+  color: #297fb8;
 }
 
 .image-index {
@@ -358,7 +358,7 @@ h4 {
 #contact {
   margin-top: 10%;
   padding: 2%;
-  background-color: #3498db;
+  background-color: #297fb8;
 }
 
 #contact h4 {
@@ -444,7 +444,7 @@ h4 {
   margin-left: auto;
   margin-right: auto;
   width: 90%;
-  background: linear-gradient(to bottom, #3498db, #dfe4ea);
+  background: linear-gradient(to bottom, #297fb8, #dfe4ea);
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   color: #ffffff;
@@ -636,7 +636,7 @@ h4 {
   }
 
   .icon {
-    fill: #3498db;
+    fill: #297fb8;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -678,7 +678,7 @@ h4 {
 
   .nav-menu a:hover,
   .show:hover {
-    color: rgb(23, 166, 255);
+    color: #297fb8;
   }
 
   .image-index {
