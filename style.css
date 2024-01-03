@@ -293,7 +293,8 @@ h4 {
 }
 
 .icon-item1 img,
-.icon-item3 img, .icon-item2 img,
+.icon-item3 img,
+.icon-item2 img,
 .icon-item4 img {
   width: 60%;
   height: auto;
@@ -428,7 +429,9 @@ h4 {
 }
 
 .bouton-devis1:hover,
-.bouton-devis2:hover, .bouton-devis3:hover, .form-container button:hover {
+.bouton-devis2:hover,
+.bouton-devis3:hover,
+.form-container button:hover {
   background-color: rgb(0, 14, 81);
 }
 
@@ -538,7 +541,10 @@ h4 {
   margin-top: 3%;
 }
 
-.contact-icon, .icon-anime, .realisation, .partenaires {
+.contact-icon,
+.icon-anime,
+.realisation,
+.partenaires {
   display: none;
 }
 
@@ -909,22 +915,23 @@ h4 {
 
   .partenaires {
     display: block;
-    margin-top: -7%;
-    margin-bottom: -15%;
-  }
+    margin-top: -12%;
+    margin-bottom: -20%;
 
-  .partenaires a {
-    display: flex;
-    justify-content: center;
   }
 
   .partenaires img {
-    width: 50%;
-    margin-top: -5%;
-    margin-bottom: -5%;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 50%;
+    margin-top: -10%;
+    margin-bottom: -10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   #contact {
@@ -1054,12 +1061,14 @@ h4 {
     font-size: 13px;
     color: #ffffff;
   }
-  
+
   .reseau-contact ion-icon {
     font-size: 16px;
   }
 
-  .icon-anime-pc, .realisation-pc, .partenaires-pc {
+  .icon-anime-pc,
+  .realisation-pc,
+  .partenaires-pc {
     display: none;
   }
 
