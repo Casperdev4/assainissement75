@@ -383,7 +383,7 @@ h4 {
 }
 
 .bouton-devis1 {
-  background-color: #ff9f0f;
+  background-color: rgb(1, 0, 44);
   color: #ffffff;
   padding: 1% 5% 1% 5%;
   border-radius: 25px;
@@ -399,8 +399,9 @@ h4 {
 .bouton-devis2 {
   display: flex;
   justify-content: center;
-  background-color: #ff9f0f;
+  background-color: #009DE0;
   color: #ffffff;
+  font-size: 22px;
   padding: 2%;
   margin-left: 35%;
   margin-right: 35%;
@@ -418,7 +419,7 @@ h4 {
   justify-content: center;
   background-color: #ff9f0f;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 22px;
   padding: 1%;
   margin-left: 25%;
   margin-right: 25%;
@@ -428,11 +429,14 @@ h4 {
   border-radius: 25px;
 }
 
+.bouton-devis3:hover {
+  background-color: rgb(1, 0, 44);
+}
+
 .bouton-devis1:hover,
 .bouton-devis2:hover,
-.bouton-devis3:hover,
 .form-container button:hover {
-  background-color: rgb(0, 14, 81);
+  background-color: #ffa929;
 }
 
 .form-container {
@@ -486,7 +490,7 @@ h4 {
 .form-container button {
   display: flex;
   justify-content: center;
-  background-color: #ffa929;
+  background-color: rgb(1, 0, 44);
   color: #fff;
   padding: 10px;
   padding-left: 150px;
@@ -862,7 +866,7 @@ h4 {
   }
 
   .bouton-devis1 {
-    background-color: #ff9f0f;
+    background-color: rgb(1, 0, 44);
     color: #ffffff;
     padding: 2% 8% 2% 8%;
     border-radius: 25px;
@@ -876,6 +880,8 @@ h4 {
   }
 
   .bouton-devis2 {
+    background-color: #009DE0;
+    font-size: 20px;
     margin-top: 5%;
     margin-bottom: 7%;
     margin-right: 25%;
@@ -1030,7 +1036,7 @@ h4 {
   .form-container button {
     display: flex;
     justify-content: center;
-    background-color: #ffa929;
+    background-color: rgb(1, 0, 44);
     color: #fff;
     padding: 10px;
     padding-left: 40px;
@@ -1046,7 +1052,7 @@ h4 {
   }
 
   .form-container button:hover {
-    background-color: #45a049;
+    background-color: #ffa929;
   }
 
   #passengers {
