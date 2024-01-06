@@ -169,11 +169,13 @@
             function envoyerFormulaire() {
                 var form = document.getElementById('myForm');
                 var mailtoLink = 'mailto:contact.aquaserv@gmail.com?' + 
-                'subject=Formulaire%20de%20contact&' +
-                'body=' + encodeURIComponent(form.elements.namedItem("nom").value + '\n' +
-                'E-mail: ' + form.elements.namedItem("e-mail").value + '\n' +
-                'Téléphone: ' + form.elements.namedItem("telephone").value + '\n' +
-                'Prestations: ' + form.elements.namedItem("services").value);
+                                'subject=Formulaire%20de%20contact&' +
+                                'body=' + encodeURIComponent(
+                                'Nom: ' + form.elements.namedItem("nom").value + '<br>' +
+                                'E-mail: ' + form.elements.namedItem("e-mail").value + '<br>' +
+                                'Téléphone: ' + form.elements.namedItem("telephone").value + '<br>' +
+                                'Prestations: ' + form.elements.namedItem("services").value
+                                );
                 window.location.href = mailtoLink;
             }
         </script>
