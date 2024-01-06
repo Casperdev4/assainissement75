@@ -1,7 +1,5 @@
 <?php
 
-var_dump($_POST);
-
 $nom = $_POST['nom'];
 $email = $_POST['e-mail'];
 $telephone = $_POST['telephone'];
