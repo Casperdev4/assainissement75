@@ -56,21 +56,20 @@
     </div>
     <h2>CONTACTEZ - NOUS</h2>
     <div class="form-container">
-        <div class="image-container"><img src="logo.webp" alt="assainissement-paris">
-        </div>
-        <form action="traitement.php" method="post">
-
-            <label for="departure">Nom :</label>
+        <div class="image-container"><img src="logo.webp" alt="assainissement-paris"></div>
+        
+        <form id="myForm" method="post" enctype="text/plain">
+            <label for="name">Nom :</label>
             <input type="text" id="name" name="nom" required>
-
-            <label for="departure">E-mail :</label>
-            <input type="text" id="departure" name="e-mail" required>
-
-            <label for="departure">Téléphone :</label>
+    
+            <label for="email">E-mail :</label>
+            <input type="text" id="email" name="e-mail" required>
+    
+            <label for="tel">Téléphone :</label>
             <input type="text" id="tel" name="telephone" required>
-
-            <label for="passengers">Prestations :</label>
-            <select id="passengers" name="services" required>
+    
+            <label for="services">Prestations :</label>
+            <select id="services" name="services" required>
                 <option value="DÉGORGEMENT">DÉGORGEMENT</option>
                 <option value="CURAGE">CURAGE</option>
                 <option value="INSPECTION CAMÉRA">INSPECTION CAMÉRA</option>
@@ -78,9 +77,23 @@
                 <option value="POMPE DE RELEVAGE">POMPE DE RELEVAGE</option>
                 <option value="URGENCE">URGENCE</option>
             </select>
-            <button type="submit">ENVOYER</button>
+            <button type="button" onclick="envoyerFormulaire()">ENVOYER</button>
         </form>
+        <script>
+            function envoyerFormulaire() {
+                var form = document.getElementById('myForm');
+                var mailtoLink = 'mailto:allam.bilal91@gmail.com?' + 
+                                 'subject=Formulaire%20de%20contact&' +
+                                 'body=' + encodeURIComponent(form.elements.namedItem("nom").value + '\n' +
+                                'E-mail: ' + form.elements.namedItem("e-mail").value + '\n' +
+                                'Téléphone: ' + form.elements.namedItem("telephone").value + '\n' +
+                                'Prestations: ' + form.elements.namedItem("services").value);
+    
+                window.location.href = mailtoLink;
+            }
+        </script>
     </div>
+    
     <h2 id="nos-valeurs">NOS PARTENAIRES</h2>
     <div class="partenaires-pc">
         <img src="dumez.webp" alt="dumez" loading="lazy" decoding="async">
