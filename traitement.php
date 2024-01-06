@@ -34,8 +34,8 @@ try {
     $mail->Port       = 587;                              // TCP port to connect to (port alternatif)
 
     // Recipients
-    $mail->setFrom('contact@webprime.fr', 'WebPrime');
-    $mail->addAddress('adresse_email_destinataire@exemple.com');  // Remplacez par l'adresse email du destinataire
+    $mail->setFrom('contact.webprime@gmail.com', 'WebPrime');
+    $mail->addAddress('allam.bilal91@gmail.com');  // Remplacez par l'adresse email du destinataire
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
