@@ -1,9 +1,5 @@
 <?php
 
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-
-
 $nom = $_POST['nom'];
 $email = $_POST['e-mail'];
 $telephone = $_POST['telephone'];
@@ -39,7 +35,7 @@ try {
 
     // Recipients
     $mail->setFrom('contact@webprime.fr', 'WebPrime');
-    $mail->addAddress('allam.bilal91@gmail.com');  // Remplacez par l'adresse email du destinataire
+    $mail->addAddress('maximeallam@hotmail.com');  // Remplacez par l'adresse email du destinataire
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
