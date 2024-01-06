@@ -26,15 +26,15 @@ $mail = new PHPMailer(true);
 try {
     // Server settings
     $mail->isSMTP();                                      // Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                  // Set the SMTP server to send through
+    $mail->Host       = 'smtp.ionos.fr';                  // Set the SMTP server to send through
     $mail->SMTPAuth   = true;                             // Enable SMTP authentication
-    $mail->Username   = 'contact.webprime@gmail.com';            // SMTP username (votre adresse email complète)
-    $mail->Password   = 'ddivwnbnyyhrfbbn';               // SMTP password (votre mot de passe)
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;   // Enable TLS encryption
-    $mail->Port       = 587;                              // TCP port to connect to (port alternatif)
+    $mail->Username   = 'contact@webprime.fr';            // SMTP username (votre adresse email complète)
+    $mail->Password   = 'Allamalyjass912!';               // SMTP password (votre mot de passe)
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;   // Enable TLS encryption
+    $mail->Port       = 465;                              // TCP port to connect to (port alternatif)
 
     // Recipients
-    $mail->setFrom('contact.webprime@gmail.com', 'WebPrime');
+    $mail->setFrom('contact@webprime.fr', 'WebPrime');
     $mail->addAddress('allam.bilal91@gmail.com');  // Remplacez par l'adresse email du destinataire
 
     // Content
