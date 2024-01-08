@@ -35,7 +35,7 @@ try {
 
     // Recipients
     $mail->setFrom('contact@webprime.fr', 'WebPrime');
-    $mail->addAddress('maximeallam@hotmail.com');  // Remplacez par l'adresse email du destinataire
+    $mail->addAddress('allam.bilal91@gmail.com');  // Remplacez par l'adresse email du destinataire
 
     // Content
     $mail->isHTML(true);                                  // Set email format to HTML
