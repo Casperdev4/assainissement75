@@ -44,7 +44,12 @@ try {
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    echo 'Formulaire envoyé';
+
+    // Redirection vers index.html
+    header('Location: index.html');
+    exit();
 } catch (Exception $e) {
     echo "Message non envoyé. Mailer Error: {$mail->ErrorInfo}";
 }
+?>
+
