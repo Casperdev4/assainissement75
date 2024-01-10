@@ -57,17 +57,19 @@
             Gratuit</a>
     </div>
     <div class="form-container">
-        <div class="image-container"><img src="logo.webp" alt="assainissement-paris"></div>
-        <form id="myForm" method="post" enctype="text/plain">
+        <div class="image-container">
+            <img src="logo.webp" alt="Logo Assainissement Paris">
+        </div>
+        <form action="traitement.php" method="post">
             <label for="name">Nom :</label>
             <input type="text" id="name" name="nom" required>
-
+    
             <label for="email">E-mail :</label>
             <input type="text" id="email" name="e-mail" required>
-
+    
             <label for="tel">Téléphone :</label>
             <input type="text" id="tel" name="telephone" required>
-
+    
             <label for="services">Prestations :</label>
             <select id="services" name="services" required>
                 <option value="DÉGORGEMENT">DÉGORGEMENT</option>
@@ -77,23 +79,9 @@
                 <option value="POMPE DE RELEVAGE">POMPE DE RELEVAGE</option>
                 <option value="URGENCE">URGENCE</option>
             </select>
-            <button type="button" onclick="envoyerFormulaire()">ENVOYER</button>
+    
+            <button type="submit">ENVOYER</button>
         </form>
-        <script>
-            function envoyerFormulaire() {
-                var form = document.getElementById('myForm');
-                var mailtoLink = 'mailto:contact.aquaserv@gmail.com?' +
-                    'subject=Formulaire%20de%20contact&' +
-                    'body=' + encodeURIComponent(
-                        'Nom: ' + form.elements.namedItem("nom").value + '\n' +
-                        'E-mail: ' + form.elements.namedItem("e-mail").value + '\n' +
-                        'Téléphone: ' + form.elements.namedItem("telephone").value + '\n' +
-                        'Prestations: ' + form.elements.namedItem("services").value
-                    );
-                window.location.href = mailtoLink;
-            }
-
-        </script>
     </div>
     <h2 id="prestation">NOS PRESTATIONS</h2>
     <div class="icon-anime-pc">
