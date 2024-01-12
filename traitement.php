@@ -1,9 +1,9 @@
 <?php
 
-$nom = $_POST['nom'];
-$email = $_POST['e-mail'];
-$telephone = $_POST['telephone'];
-$services = $_POST['services'];
+$nom = htmlspecialchars($_POST['nom']);
+$email = htmlspecialchars($_POST['e-mail']);
+$telephone = htmlspecialchars($_POST['telephone']);
+$services = htmlspecialchars($_POST['services']);
 
 $message = "Nom: $nom \n";
 $message .= "E-mail: $email \n";
