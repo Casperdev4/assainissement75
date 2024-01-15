@@ -492,6 +492,7 @@ h4 {
   box-sizing: border-box;
   border-style: solid;
   border-width: 2px;
+  border-color: #333;
   background-color: #f2f2f2;
   color: #000000;
 }
@@ -512,10 +513,6 @@ h4 {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-}
-
-#passengers {
-  font-size: 15px;
 }
 
 .partenaires-pc {
