@@ -7,7 +7,7 @@ $services = htmlspecialchars($_POST['services']);
 
 $message = "Nom: $nom \n";
 $message .= "E-mail: $email \n";
-$message .= "Téléphone: $telephone \n";
+$message .= "Telephone: $telephone \n";
 $message .= "Prestations: $services \n";
 
 use PHPMailer\PHPMailer\PHPMailer;
