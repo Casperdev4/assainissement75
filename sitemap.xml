@@ -133,6 +133,14 @@
         <image:caption>Découvrez-comment-nos-services-d'assainissement-ont-contribué-à-la-satisfaction-de-Nexity,-l'un-de-nos-partenaires-immobiliers.</image:caption>
         <image:title>Assainissement-75</image:title>
     </image:image>
+    <geo:geo>
+        <geo:format>decimal</geo:format>
+        <geo:latitude>48.8566</geo:latitude>
+        <geo:longitude>2.3522</geo:longitude>
+    </geo:geo>
+        <geo:region>ile-de-france</geo:region>
+        <geo:placename>Paris</geo:placename>
+        <geo:position>48.8566;2.3522</geo:position>
 </url>
 
 <url>
@@ -187,10 +195,26 @@
         <image:caption>Explorez-nos-services-d-assainissement-avec-notre-equipe-de-specialistes-assurant-des-solutions-adaptees-et-fiables-pour-vos-besoins.</image:caption>
         <image:title>Specialistes-en-Assainissement</image:title>
     </image:image>
+    <geo:geo>
+        <geo:format>decimal</geo:format>
+        <geo:latitude>48.8566</geo:latitude>
+        <geo:longitude>2.3522</geo:longitude>
+    </geo:geo>
+        <geo:region>ile-de-france</geo:region>
+        <geo:placename>Paris</geo:placename>
+        <geo:position>48.8566;2.3522</geo:position>
 </url>
 
 <url>
 <loc>https://assainissement75.fr/assainissement-devis-gratuit.html</loc>
+    <geo:geo>
+        <geo:format>decimal</geo:format>
+        <geo:latitude>48.8566</geo:latitude>
+        <geo:longitude>2.3522</geo:longitude>
+    </geo:geo>
+        <geo:region>ile-de-france</geo:region>
+        <geo:placename>Paris</geo:placename>
+        <geo:position>48.8566;2.3522</geo:position>
 </url>
 
 <url>
@@ -199,10 +223,26 @@
 
 <url>
 <loc>https://assainissement75.fr/pdc.html</loc>
+    <geo:geo>
+        <geo:format>decimal</geo:format>
+        <geo:latitude>48.8566</geo:latitude>
+        <geo:longitude>2.3522</geo:longitude>
+    </geo:geo>
+        <geo:region>ile-de-france</geo:region>
+        <geo:placename>Paris</geo:placename>
+        <geo:position>48.8566;2.3522</geo:position>
 </url>
 
 <url>
 <loc>https://assainissement75.fr/mentionslegales.html</loc>
+    <geo:geo>
+        <geo:format>decimal</geo:format>
+        <geo:latitude>48.8566</geo:latitude>
+        <geo:longitude>2.3522</geo:longitude>
+    </geo:geo>
+        <geo:region>ile-de-france</geo:region>
+        <geo:placename>Paris</geo:placename>
+        <geo:position>48.8566;2.3522</geo:position>
 </url>
 
 </urlset>
