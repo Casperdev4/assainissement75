@@ -244,8 +244,6 @@
         document.addEventListener("DOMContentLoaded", function () {
             var menuToggle = document.getElementById("btn");
             var navLinks = document.querySelectorAll(".nav-menu a");
-
-            // Ferme le menu lorsqu'un lien est cliqué
             navLinks.forEach(function (link) {
                 link.addEventListener("click", function () {
                     menuToggle.checked = false;
@@ -260,12 +258,10 @@
                 rootMargin: '0px',
                 threshold: 0.5
             };
-
             function observeStep(entry, observer) {
                 entry.target.classList.add('slide-in-done');
                 observer.unobserve(entry.target);
             }
-
             function createObserver(element) {
                 var observer = new IntersectionObserver(function (entries) {
                     entries.forEach(function (entry) {
@@ -274,17 +270,13 @@
                         }
                     });
                 }, observerOptions);
-
                 observer.observe(element);
             }
-
-            // Observer chaque élément .valeur
             var elements = document.querySelectorAll('.valeur');
             elements.forEach(function (element) {
                 createObserver(element);
             });
         });
-
     </script>
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -293,7 +285,6 @@
                 rootMargin: '0px',
                 threshold: 0.8
             };
-
             const observer = new IntersectionObserver(entries => {
                 entries.forEach(entry => {
                     if (entry.isIntersecting) {
@@ -301,9 +292,7 @@
                     }
                 });
             }, options);
-
             const elements = document.querySelectorAll('.icon-anime h3, .bouton-devis3');
-
             elements.forEach(element => {
                 observer.observe(element);
             });
