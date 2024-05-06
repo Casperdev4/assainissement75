@@ -175,14 +175,14 @@
             <a class="bouton-devis3" href="tel:0169520023">CONTACTEZ - NOUS</a>
         </div>
         <div class="icon-item4"><img src="urgence-assainissement.webp" alt="urgence-assainissement" loading="lazy"
-            decoding="async">
-        <p><strong class="strong-color">URGENCE</strong></p>
-        <h3>En cas d'urgence, nous sommes là pour vous. Notre équipe d'experts en assainissement se déplace
-            rapidement et efficacement pour répondre à vos besoins critiques. Que ce soit pour un débouchage urgent,
-            une inspection par caméra ou toute autre intervention nécessaire, comptez sur nous pour intervenir
-            rapidement.</h3>
-        <a class="bouton-devis3" href="tel:0169520023">CONTACTEZ - NOUS</a>
-    </div>
+                decoding="async">
+            <p><strong class="strong-color">URGENCE</strong></p>
+            <h3>En cas d'urgence, nous sommes là pour vous. Notre équipe d'experts en assainissement se déplace
+                rapidement et efficacement pour répondre à vos besoins critiques. Que ce soit pour un débouchage urgent,
+                une inspection par caméra ou toute autre intervention nécessaire, comptez sur nous pour intervenir
+                rapidement.</h3>
+            <a class="bouton-devis3" href="tel:0169520023">CONTACTEZ - NOUS</a>
+        </div>
     </div>
     <div class="contenu">
         <h2>UNE EQUIPE PROFESSIONNELLE ET DES EQUIPEMENTS MODERNES</h2>
@@ -460,22 +460,22 @@
             });
         });
     </script>
-        <script>
-            document.addEventListener('DOMContentLoaded', function () {
-                var telephoneLinks = document.querySelectorAll('a[href^="tel:"]');
-                if (telephoneLinks.length > 0) {
-                    var nombreClics = localStorage.getItem('nombreClics') || 0;
-                    console.log('Nombre de clics actuel : ' + nombreClics);
-                    telephoneLinks.forEach(function (link) {
-                        link.addEventListener('click', function () {
-                            nombreClics++;
-                            localStorage.setItem('nombreClics', nombreClics);
-                            console.log('Clic sur un lien de téléphone ! Nouveau nombre de clics : ' + nombreClics);
-                        });
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var telephoneLinks = document.querySelectorAll('a[href^="tel:"]');
+            if (telephoneLinks.length > 0) {
+                var nombreClics = localStorage.getItem('nombreClics') || 0;
+                console.log('Nombre de clics actuel : ' + nombreClics);
+                telephoneLinks.forEach(function (link) {
+                    link.addEventListener('click', function () {
+                        nombreClics++;
+                        localStorage.setItem('nombreClics', nombreClics);
+                        console.log('Clic sur un lien de téléphone ! Nouveau nombre de clics : ' + nombreClics);
                     });
-                }
-            });
-        </script>
+                });
+            }
+        });
+    </script>
 </body>
 
 </html>
