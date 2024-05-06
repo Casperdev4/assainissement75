@@ -34,51 +34,6 @@
         <image:title>pompe-de-relevage</image:title>
     </image:image>
     <image:image>
-        <image:loc>https://assainissement75.fr/restaurant.webp</image:loc>
-        <image:caption>Assurez-vous-de-la-propreté-avec-nos-services-assainissement-pour-les-restaurants-et-établissements-alimentaires.</image:caption>
-        <image:title>vidange-bac-a-graisse</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/pompage-assainissement.webp</image:loc>
-        <image:caption>Explorez-nos-services-de-pompage.</image:caption>
-        <image:title>pompage-assainissement</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/camera-assainissement.webp</image:loc>
-        <image:caption>Découvrez-nos-services-de-caméra-assainissement.</image:caption>
-        <image:title>camera-pour-canalisation</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/debouchage-assainissement.webp</image:loc>
-        <image:caption>Découvrez-nos-services-de-débouchage.</image:caption>
-        <image:title>debouchage-canalisation</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/degorgement.webp</image:loc>
-        <image:caption>Profitez-de-nos-services-de-dégorgement-professionnels-pour-maintenir-vos-canalisations-fluides-et-sans-obstruction.</image:caption>
-        <image:title>debouchage-canalisation-paris</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/curage-assainissement.webp</image:loc>
-        <image:caption>Explorez-nos-services-de-curage-pour-un-assainissement-efficace-et-sans-obstruction.</image:caption>
-        <image:title>hydrocurage</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/camera2.webp</image:loc>
-        <image:caption>Explorez-nos-services-inspection-caméra.</image:caption>
-        <image:title>camera-pour-canalisation</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/pompe-de-relevage2.webp</image:loc>
-        <image:caption>Découvrez-nos-services-installation-et-maintenance-de-pompes-de-relevage.</image:caption>
-        <image:title>pompe-vide-cave</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/bac-a-graisse.webp</image:loc>
-        <image:caption>Découvrez-nos-services-de-maintenance-de-bacs-à-graisse.</image:caption>
-        <image:title>bacs-a-graisse</image:title>
-    </image:image>
-    <image:image>
         <image:loc>https://assainissement75.fr/note-1.webp</image:loc>
         <image:caption>Découvrez-nos-contrats-annuels-d'assainissement-pour-une-tranquillité-d'esprit-tout-au-long-de-l'année.</image:caption>
         <image:title>contrat-entretien-fosse-septique</image:title>
@@ -174,6 +129,51 @@
         <image:loc>https://assainissement75.fr/camion-debouchage.webp</image:loc>
         <image:caption>Optez-pour-nos-services-de-debouchage-avec-nos-camions-specialises-garantissant-des-solutions-rapides-et-durables.</image:caption>
         <image:title>entreprise-de-debouchage-de-canalisation</image:title>
+    </image:image>
+        <image:image>
+        <image:loc>https://assainissement75.fr/restaurant.webp</image:loc>
+        <image:caption>Assurez-vous-de-la-propreté-avec-nos-services-assainissement-pour-les-restaurants-et-établissements-alimentaires.</image:caption>
+        <image:title>vidange-bac-a-graisse</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/pompage-assainissement.webp</image:loc>
+        <image:caption>Explorez-nos-services-de-pompage.</image:caption>
+        <image:title>pompage-assainissement</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/camera-assainissement.webp</image:loc>
+        <image:caption>Découvrez-nos-services-de-caméra-assainissement.</image:caption>
+        <image:title>camera-pour-canalisation</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/debouchage-assainissement.webp</image:loc>
+        <image:caption>Découvrez-nos-services-de-débouchage.</image:caption>
+        <image:title>debouchage-canalisation</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/degorgement.webp</image:loc>
+        <image:caption>Profitez-de-nos-services-de-dégorgement-professionnels-pour-maintenir-vos-canalisations-fluides-et-sans-obstruction.</image:caption>
+        <image:title>debouchage-canalisation-paris</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/curage-assainissement.webp</image:loc>
+        <image:caption>Explorez-nos-services-de-curage-pour-un-assainissement-efficace-et-sans-obstruction.</image:caption>
+        <image:title>hydrocurage</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/camera2.webp</image:loc>
+        <image:caption>Explorez-nos-services-inspection-caméra.</image:caption>
+        <image:title>camera-pour-canalisation</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/pompe-de-relevage2.webp</image:loc>
+        <image:caption>Découvrez-nos-services-installation-et-maintenance-de-pompes-de-relevage.</image:caption>
+        <image:title>pompe-vide-cave</image:title>
+    </image:image>
+    <image:image>
+        <image:loc>https://assainissement75.fr/bac-a-graisse.webp</image:loc>
+        <image:caption>Découvrez-nos-services-de-maintenance-de-bacs-à-graisse.</image:caption>
+        <image:title>bacs-a-graisse</image:title>
     </image:image>
     <image:image>
         <image:loc>https://assainissement75.fr/techniciens-assainissement.webp</image:loc>
