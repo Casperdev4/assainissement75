@@ -52,7 +52,8 @@
     </nav>
     <div class="image-index">
         <h1>ASSAINISSEMENT PARIS</h1>
-        <a class="bouton-devis1" href="assainissement-devis-gratuit.html"><ion-icon name="document-text-outline"></ion-icon> Devis
+        <a class="bouton-devis1" href="assainissement-devis-gratuit.html"><ion-icon
+                name="document-text-outline"></ion-icon> Devis
             Gratuit</a>
     </div>
     <div class="histoire">
@@ -146,17 +147,18 @@
         <img src="specialistes-assainissement.webp" alt="specialistes-assainissement" loading="lazy" decoding="async">
     </div>
     <div class="realisation">
-        <img src="techniciens-assainissement.webp" alt="entreprise-de-debouchage-de-canalisation" loading="lazy" decoding="async">
+        <img src="techniciens-assainissement.webp" alt="entreprise-de-debouchage-de-canalisation" loading="lazy"
+            decoding="async">
     </div>
     <div class="realisation">
         <img src="agents-assainissement.webp" alt="entreprise-assainissement" loading="lazy" decoding="async">
     </div>
     <div class="realisation">
-        <img src="techniciens-traitement-des-eaux.webp" alt="assainissement-entreprise" loading="lazy"
-            decoding="async">
+        <img src="techniciens-traitement-des-eaux.webp" alt="assainissement-entreprise" loading="lazy" decoding="async">
     </div>
     <div class="realisation">
-        <img src="specialistes-assainissement.webp" alt="entreprise-debouchage-canalisation" loading="lazy" decoding="async">
+        <img src="specialistes-assainissement.webp" alt="entreprise-debouchage-canalisation" loading="lazy"
+            decoding="async">
     </div>
     <h2 id="realisation">CONTACTEZ - NOUS</h2>
     <div class="form-container">
@@ -309,6 +311,22 @@
             elements.forEach(element => {
                 observer.observe(element);
             });
+        });
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var telephoneLinks = document.querySelectorAll('a[href^="tel:"]');
+            if (telephoneLinks.length > 0) {
+                var nombreClics = localStorage.getItem('nombreClics') || 0;
+                console.log('Nombre de clics actuel : ' + nombreClics);
+                telephoneLinks.forEach(function (link) {
+                    link.addEventListener('click', function () {
+                        nombreClics++;
+                        localStorage.setItem('nombreClics', nombreClics);
+                        console.log('Clic sur un lien de téléphone ! Nouveau nombre de clics : ' + nombreClics);
+                    });
+                });
+            }
         });
     </script>
 </body>
