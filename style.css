@@ -116,7 +116,7 @@ a {text-decoration: none;}
 /*  Small device */
 @media screen and (max-width:767.98px) {
 
-  h1,h2{color:#01002c}h4,p{color:#02003c;text-align:center}h1,h2,h3,h4,p{text-align:center}h1{font-weight:550;font-size:30px;margin-bottom:5%;margin-top:5%}h2{margin-top:10%;margin-bottom:10%;font-size:35px;font-weight:530}h3{font-weight:200;font-size:17px;margin:3% 3% 7%}h4{margin:5% 3%;font-size:20px;font-weight:350}p{font-size:17px;margin-left:5%;margin-right:5%;padding:2%}
+  h1,h2{color:#01002c}h4,p{color:#02003c;text-align:center}h1,h2,h3,h4,p{text-align:center}h1{font-weight:550;font-size:30px;margin-bottom:0;margin-top:5%}h2{margin-top:10%;margin-bottom:10%;font-size:35px;font-weight:530}h3{font-weight:200;font-size:17px;margin:3% 3% 7%}h4{margin:5% 3%;font-size:20px;font-weight:350}p{font-size:17px;margin-left:5%;margin-right:5%;padding:2%}
   #tarif p,.histoire p,.valeur p{color:#fff;font-size:17px}
   .form-container h2 {
     font-size: 18px;
