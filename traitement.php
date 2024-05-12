@@ -3,10 +3,12 @@
 $nom = htmlspecialchars($_POST['nom']);
 $telephone = htmlspecialchars($_POST['telephone']);
 $services = htmlspecialchars($_POST['services']);
+$commentaires = htmlspecialchars($_POST['commentaires']);
 
 $message = "Nom: $nom \n";
 $message .= "Telephone: $telephone \n";
 $message .= "Prestations: $services \n";
+$message .= "Commentaires: $commentaires \n";
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
@@ -28,7 +30,7 @@ try {
     $mail->Port       = 465;                      
 
     $mail->setFrom('contact@webprime.fr', 'Assainissement 75');
-    $mail->addAddress('contact.aquaserv@gmail.com');
+
     $mail->addAddress('contact@webprime.fr');
 
     $mail->isHTML(true);     
@@ -44,4 +46,3 @@ try {
     echo "Message non envoyé. Mailer Error: {$mail->ErrorInfo}";
 }
 ?>
-
