@@ -24,7 +24,7 @@ p {
 .strong-color {
   color: rgb(2, 0, 60);
 }
-a {text-decoration: none;}
+a {text-decoration: none;color: #01002c;}
 .histoire{background-color:#01002c;padding:2% 0;width:80%;margin:10% auto;box-shadow:2px 3px 0 2px #009de0;border-radius:20px 20px 20px 0}.histoire h4,.histoire p{color:#fff}
 #tarif{background-color:#01002c;padding:2%;width:80%;margin:10% auto;box-shadow:2px 3px 0 2px #009de0;border-radius:20px 20px 20px 0}#tarif h1,#tarif h4,#tarif p{color:#fff}#tarif p{text-align: left}
 .valeur h3,.valeur h4{margin-bottom:0;color:#fff;text-align:left}.valeur h3,.valeur h4,.valeur p{text-align:left}.valeur{background-color:#01002c;width:90%;margin-left:auto;margin-right:auto;box-shadow:2px 3px 0 2px #009de0;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border-radius:20px 20px 20px 0}.valeur.slide-in-done{opacity:1;transform:translateX(0)}.valeur .confiance{display:flex;align-items:center;margin-top:5%;margin-left:2%;font-size:35px;text-align:left}.valeur .confiance ion-icon{color:#fff;margin-left:2%;margin-top:2%}.valeur h3{display:flex;align-items:center;font-size:30px}.valeur h4{font-size:20px;margin-top:3%}.valeur p{margin-left:0;color:#fff;font-size:16px;margin-top:0}
@@ -174,7 +174,8 @@ a {text-decoration: none;}
     opacity: 1;
     transform: translateY(0);
   }
-  .contenu2 h3 {font-size: 20px;margin-left: 5%;margin-right: 5%;text-align: left;margin-top: 10%;margin-bottom: 3%;}
+  .contenu2 p {margin-left: 3%;margin-right: 3%;}
+  .contenu2 h3 {font-size: 20px;margin-left: 6%;margin-right: 5%;text-align: left;margin-top: 10%;margin-bottom: 3%;}
   .icon-item1,.icon-item2,.icon-item3,.icon-item4{text-align:center;margin:5px 0;position:relative}.icon-item1 img,.icon-item2 img,.icon-item3 img,.icon-item4 img{width:100%;height:240px;margin-bottom:3%}.icon-item1 p,.icon-item2 p,.icon-item3 p,.icon-item4 p{margin-bottom:0;font-size:22px;letter-spacing:2px}
   .contenu h2,.contenu2 h2{font-size:25px;margin:15% 2% 4%}.contenu img{display:flex;width:30%;margin-left:auto;margin-right:auto;margin-top:15%}.contenu2 img{display:flex;width:90%;margin:10% auto 8%}.contenu h3{margin-top:5%;margin-bottom:7%}.contenu p,.contenu2 p{text-align:left}
   .bouton-devis1{background-color:#01002c;color:#fff;padding:2% 8%;border-radius:25px;text-decoration:none;margin-top:auto;margin-bottom:10%}.bouton-devis1 ion-icon{font-size:20px}
