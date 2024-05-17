@@ -24,7 +24,7 @@ p {
 .strong-color {
   color: rgb(2, 0, 60);
 }
-a {text-decoration: none;color: #01002c;}
+a {text-decoration: none;color: #000000;}
 .histoire{background-color:#01002c;padding:2% 0;width:80%;margin:10% auto;box-shadow:2px 3px 0 2px #009de0;border-radius:20px 20px 20px 0}.histoire h4,.histoire p{color:#fff}
 #tarif{background-color:#01002c;padding:2%;width:100%;margin:10% auto}#tarif h1,#tarif h4,#tarif p{color:#fff}#tarif p{text-align: left}
 .valeur h3,.valeur h4{margin-bottom:0;color:#fff;text-align:left}.valeur h3,.valeur h4,.valeur p{text-align:left}.valeur{background-color:#01002c;width:75%;margin-left:auto;margin-right:auto;box-shadow:2px 3px 0 2px #009de0;opacity:0;transform:translateX(-50%);transition:opacity .5s,transform 1s;border-radius:20px 20px 20px 0}.valeur.slide-in-done{opacity:1;transform:translateX(0)}.valeur .confiance{display:flex;align-items:center;margin-top:5%;margin-left:2%;font-size:35px;text-align:left}.valeur .confiance ion-icon{color:#fff;margin-left:2%;margin-top:2%}.valeur h3{display:flex;align-items:center;font-size:30px}.valeur h4{font-size:20px;margin-top:3%}.valeur p{margin-left:0;color:#fff;font-size:16px;margin-top:0}
