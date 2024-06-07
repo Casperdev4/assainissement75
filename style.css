@@ -58,9 +58,8 @@ a {text-decoration: none;color: #000000;}
   z-index: 1;
   color: #02003c;
 }
-.icon-anime{display:flex;justify-content:space-between;align-items:center;margin-top:5%}.icon-anime-pc h3{opacity:0;transform:translateY(50px);transition:opacity .5s,transform .5s}
+.icon-anime{display:flex;justify-content:space-between;align-items:center;margin-top:5%}
 .icon-item1,.icon-item2,.icon-item3,.icon-item4{text-align:center;margin-top:5%;margin-bottom:15%}.icon-item1 img,.icon-item2 img,.icon-item3 img,.icon-item4 img{width:45%;height:auto}.icon-item1 p,.icon-item2 p,.icon-item3 p,.icon-item4 p{margin:5px 0 0;padding:8px;font-size:22px}
-.icon-anime-pc h3.slide-up,
 .bouton-devis3.slide-up {
   opacity: 1;
   transform: translateY(0);
@@ -179,8 +178,7 @@ a {text-decoration: none;color: #000000;}
   font-weight: 300;
   margin-top: 3%;
 }
-.contact-icon,.icon-anime,.partenaires,.realisation,.icon-anime-pc{display:none}
-
+.contact-icon,.icon-anime,.partenaires,.realisation{display:none}
 
 /*  Small device */
 @media screen and (max-width:767.98px) {
@@ -274,5 +272,5 @@ a {text-decoration: none;color: #000000;}
   }
   .form-container{display:flex;flex-direction:column;align-items:center;margin:5% auto;width:90%;background:linear-gradient(to bottom,#3498db,#dfe4ea);padding:20px;box-shadow:0 0 10px rgba(0,0,0,.1);color:#fff}.image-container{background-color:#fff;padding:1%;margin-left:25%;margin-right:25%;margin-bottom:20px;border-radius:20px}.image-container img{width:100%;height:auto;border-radius:20px}.form-container label{display:block;margin-bottom:8px;font-size:20px;margin-left: 2%;}.form-container input,.form-container select{width:300px;height:35px;padding:8px 8px 8px 8px;margin-bottom:16px;box-sizing:border-box}.form-container button{display:flex;justify-content:center;background-color:#01002c;color:#fff;padding:10px 40px;font-size:18px;margin:3% auto 2%;border:none;border-radius:4px;cursor:pointer}.form-container button:hover{background-color:#ffa929}
   .reseau-contact{text-align:center;margin-bottom:13%}.reseau-contact a{font-size:13px;color:#fff}.reseau-contact ion-icon{font-size:16px}
-  .icon-anime-pc,.partenaires-pc,.realisation-pc,.container-index,.container-index2{display:none}
+  .partenaires-pc,.realisation-pc,.container-index,.container-index2{display:none}
 }
