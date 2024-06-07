@@ -309,19 +309,19 @@
             });
         });
     </script>
- <script>
-    function validateForm() {
-        var comments = document.getElementById("comments").value;
-        var linkPattern = /https?:\/\/[^\s]+|<a\s+href\s*=\s*['"][^\s>]+['"]/i;
-        var scriptPattern = /<script[^>]*>[\s\S]*?<\/script>/gi;
+    <script>
+        function validateForm() {
+            var comments = document.getElementById("comments").value;
+            var linkPattern = /https?:\/\/[^\s]+|<a\s+href\s*=\s*['"][^\s>]+['"]/i;
+            var scriptPattern = /<script[^>]*>[\s\S]*?<\/script>/gi;
 
-        if (linkPattern.test(comments) || scriptPattern.test(comments)) {
-            alert("Pas autorisés.");
-            return false;
+            if (linkPattern.test(comments) || scriptPattern.test(comments)) {
+                alert("Pas autorisés.");
+                return false;
+            }
+            return true;
         }
-        return true;
-    }
-</script>
+    </script>
 
 </body>
 
