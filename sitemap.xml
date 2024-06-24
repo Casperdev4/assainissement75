@@ -88,15 +88,17 @@
         <image:caption>Découvrez comment nos services d'assainissement ont contribué à la satisfaction de Nexity, l'un de nos partenaires immobiliers.</image:caption>
         <image:title>entreprise débouchage canalisation</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/assainissement-paris-75.html</loc>
@@ -195,27 +197,31 @@
         <image:caption>Explorez-nos-services-d-assainissement-avec-notre-equipe-de-specialistes-assurant-des-solutions-adaptees-et-fiables-pour-vos-besoins.</image:caption>
         <image:title>terrassement-assainissement</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/prix-assainissement-paris-75.html</loc>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/debouchage-canalisation-paris-75.html</loc>
@@ -224,15 +230,17 @@
         <image:caption>Découvrez nos solutions professionnelles de débouchage et dégorgement de canalisations.</image:caption>
         <image:title>debouchage canalisation Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/curage-canalisation-paris-75.html</loc>
@@ -241,15 +249,17 @@
         <image:caption>Découvrez notre expertise en curage et nettoyage de canalisation.</image:caption>
         <image:title>nettoyage canalisation Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/camera-canalisation-paris-75.html</loc>
@@ -258,15 +268,17 @@
         <image:caption>Explorez nos services de caméra pour canalisations.</image:caption>
         <image:title>camera canalisation Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/vidange-fosse-septique-paris-75.html</loc>
@@ -275,15 +287,17 @@
         <image:caption>Découvrez nos services de vidange et pompage des eaux usées, de bacs à graisse et des liquides.</image:caption>
         <image:title>vidange fosse septique Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/pompe-de-relevage-paris-75.html</loc>
@@ -292,15 +306,17 @@
         <image:caption>Découvrez notre expertise en installation et maintenance de pompes de relevage.</image:caption>
         <image:title>pompe de relevage Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/urgence-assainissement-paris-75.html</loc>
@@ -309,15 +325,17 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>Paris (75)</geo:placename>
-        <geo:lat>48.8566</geo:lat>
-        <geo:long>2.3522</geo:long>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>Paris (75)</geo:placename>
-    <geo:position>48.8566;2.3522</geo:position>
+        <geo:geo>
+            <geo:format>kml</geo:format>
+            <geo:region>ile-de-france</geo:region>
+            <geo:placename>Paris</geo:placename>
+            <geo:BoundingBox>
+                <geo:west>2.2242</geo:west>
+                <geo:east>2.4699</geo:east>
+                <geo:north>48.9021</geo:north>
+                <geo:south>48.8156</geo:south>
+            </geo:BoundingBox>
+        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-1.html</loc>
