@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:geo="http://www.google.com/geo/schemas/sitemap/1.0">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
 <url>
 <loc>https://assainissement75.fr</loc>
@@ -88,17 +88,6 @@
         <image:caption>Découvrez comment nos services d'assainissement ont contribué à la satisfaction de Nexity, l'un de nos partenaires immobiliers.</image:caption>
         <image:title>entreprise débouchage canalisation</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/assainissement-paris-75.html</loc>
@@ -197,31 +186,10 @@
         <image:caption>Explorez-nos-services-d-assainissement-avec-notre-equipe-de-specialistes-assurant-des-solutions-adaptees-et-fiables-pour-vos-besoins.</image:caption>
         <image:title>terrassement-assainissement</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/prix-assainissement-paris-75.html</loc>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
+
 </url>
 <url>
 <loc>https://assainissement75.fr/debouchage-canalisation-paris-75.html</loc>
@@ -230,17 +198,6 @@
         <image:caption>Découvrez nos solutions professionnelles de débouchage et dégorgement de canalisations.</image:caption>
         <image:title>debouchage canalisation Paris 75</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/curage-canalisation-paris-75.html</loc>
@@ -249,17 +206,6 @@
         <image:caption>Découvrez notre expertise en curage et nettoyage de canalisation.</image:caption>
         <image:title>nettoyage canalisation Paris 75</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/camera-canalisation-paris-75.html</loc>
@@ -268,17 +214,6 @@
         <image:caption>Explorez nos services de caméra pour canalisations.</image:caption>
         <image:title>camera canalisation Paris 75</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/vidange-fosse-septique-paris-75.html</loc>
@@ -287,17 +222,6 @@
         <image:caption>Découvrez nos services de vidange et pompage des eaux usées, de bacs à graisse et des liquides.</image:caption>
         <image:title>vidange fosse septique Paris 75</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/pompe-de-relevage-paris-75.html</loc>
@@ -306,17 +230,6 @@
         <image:caption>Découvrez notre expertise en installation et maintenance de pompes de relevage.</image:caption>
         <image:title>pompe de relevage Paris 75</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/urgence-assainissement-paris-75.html</loc>
@@ -325,17 +238,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-            <geo:format>kml</geo:format>
-            <geo:region>ile-de-france</geo:region>
-            <geo:placename>Paris</geo:placename>
-            <geo:BoundingBox>
-                <geo:west>2.2242</geo:west>
-                <geo:east>2.4699</geo:east>
-                <geo:north>48.9021</geo:north>
-                <geo:south>48.8156</geo:south>
-            </geo:BoundingBox>
-        </geo:geo>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-1.html</loc>
@@ -369,14 +271,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
     <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8626</geo:latitude>
-        <geo:longitude>2.3364</geo:longitude>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>1er arrondissement, Paris</geo:placename>
-    <geo:position>48.8626;2.3364</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-2.html</loc>
@@ -410,14 +304,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
     <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-    <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8686</geo:latitude>
-        <geo:longitude>2.3425</geo:longitude>
-    </geo:geo>
-    <geo:region>ile-de-france</geo:region>
-    <geo:placename>2e arrondissement, Paris</geo:placename>
-    <geo:position>48.8686;2.3425</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-3.html</loc>
@@ -492,14 +378,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8546</geo:latitude>
-        <geo:longitude>2.3572</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>4e arrondissement, Paris</geo:placename>
-        <geo:position>48.8546;2.3572</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-5.html</loc>
@@ -533,14 +411,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8442</geo:latitude>
-        <geo:longitude>2.3499</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>5e arrondissement, Paris</geo:placename>
-        <geo:position>48.8442;2.3499</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-6.html</loc>
@@ -574,14 +444,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8493</geo:latitude>
-        <geo:longitude>2.3332</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>6e arrondissement, Paris</geo:placename>
-        <geo:position>48.8493;2.3332</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-7.html</loc>
@@ -615,55 +477,39 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8567</geo:latitude>
-        <geo:longitude>2.3125</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>7e arrondissement, Paris</geo:placename>
-        <geo:position>48.8567;2.3125</geo:position>
     </url>
     <url>
     <loc>https://assainissement75.fr/societe-assainissement-paris-8.html</loc>
-    <image:image>
-        <image:loc>https://assainissement75.fr/debouchage.webp</image:loc>
-        <image:caption>Découvrez nos solutions professionnelles de débouchage et dégorgement de canalisations.</image:caption>
-        <image:title>debouchage canalisation Paris 75</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/curage.webp</image:loc>
-        <image:caption>Découvrez notre expertise en curage et nettoyage de canalisation.</image:caption>
-        <image:title>nettoyage canalisation Paris 75</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/camera.webp</image:loc>
-        <image:caption>Explorez nos services de caméra pour canalisations.</image:caption>
-        <image:title>camera canalisation Paris 75</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/pompage.webp</image:loc>
-        <image:caption>Découvrez nos services de vidange et pompage des eaux usées, de bacs à graisse et des liquides.</image:caption>
-        <image:title>vidange fosse septique Paris 75</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/pompe-de-relevage.webp</image:loc>
-        <image:caption>Découvrez notre expertise en installation et maintenance de pompes de relevage.</image:caption>
-        <image:title>pompe de relevage Paris 75</image:title>
-    </image:image>
-    <image:image>
-        <image:loc>https://assainissement75.fr/urgence-assainissement.webp</image:loc>
-        <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
-        <image:title>urgence assainissement Paris 75</image:title>
-    </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8723</geo:latitude>
-        <geo:longitude>2.3126</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>8e arrondissement, Paris</geo:placename>
-        <geo:position>48.8723;2.3126</geo:position>
+        <image:image>
+            <image:loc>https://assainissement75.fr/debouchage.webp</image:loc>
+            <image:caption>Découvrez nos solutions professionnelles de débouchage et dégorgement de canalisations.</image:caption>
+            <image:title>debouchage canalisation Paris 75</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://assainissement75.fr/curage.webp</image:loc>
+            <image:caption>Découvrez notre expertise en curage et nettoyage de canalisation.</image:caption>
+            <image:title>nettoyage canalisation Paris 75</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://assainissement75.fr/camera.webp</image:loc>
+            <image:caption>Explorez nos services de caméra pour canalisations.</image:caption>
+            <image:title>camera canalisation Paris 75</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://assainissement75.fr/pompage.webp</image:loc>
+            <image:caption>Découvrez nos services de vidange et pompage des eaux usées, de bacs à graisse et des liquides.</image:caption>
+            <image:title>vidange fosse septique Paris 75</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://assainissement75.fr/pompe-de-relevage.webp</image:loc>
+            <image:caption>Découvrez notre expertise en installation et maintenance de pompes de relevage.</image:caption>
+            <image:title>pompe de relevage Paris 75</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://assainissement75.fr/urgence-assainissement.webp</image:loc>
+            <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
+            <image:title>urgence assainissement Paris 75</image:title>
+        </image:image>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-9.html</loc>
@@ -697,14 +543,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8779</geo:latitude>
-        <geo:longitude>2.3375</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>9e arrondissement, Paris</geo:placename>
-        <geo:position>48.8779;2.3375</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-10.html</loc>
@@ -738,14 +576,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8760</geo:latitude>
-        <geo:longitude>2.3608</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>10e arrondissement, Paris</geo:placename>
-        <geo:position>48.8760;2.3608</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-11.html</loc>
@@ -779,14 +609,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8594</geo:latitude>
-        <geo:longitude>2.3783</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>11e arrondissement, Paris</geo:placename>
-        <geo:position>48.8594;2.3783</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-12.html</loc>
@@ -820,14 +642,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8351</geo:latitude>
-        <geo:longitude>2.4455</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>12e arrondissement, Paris</geo:placename>
-        <geo:position>48.8351;2.4455</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-13.html</loc>
@@ -861,14 +675,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8322</geo:latitude>
-        <geo:longitude>2.3561</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>13e arrondissement, Paris</geo:placename>
-        <geo:position>48.8322;2.3561</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-14.html</loc>
@@ -902,14 +708,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8337</geo:latitude>
-        <geo:longitude>2.3263</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>14e arrondissement, Paris</geo:placename>
-        <geo:position>48.8337;2.3263</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-15.html</loc>
@@ -943,14 +741,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8402</geo:latitude>
-        <geo:longitude>2.2935</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>15e arrondissement, Paris</geo:placename>
-        <geo:position>48.8402;2.2935</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-16.html</loc>
@@ -984,14 +774,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8637</geo:latitude>
-        <geo:longitude>2.2769</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>16e arrondissement, Paris</geo:placename>
-        <geo:position>48.8637;2.2769</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-17.html</loc>
@@ -1025,14 +807,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8847</geo:latitude>
-        <geo:longitude>2.3219</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>17e arrondissement, Paris</geo:placename>
-        <geo:position>48.8847;2.3219</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-18.html</loc>
@@ -1066,14 +840,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8925</geo:latitude>
-        <geo:longitude>2.3484</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>18e arrondissement, Paris</geo:placename>
-        <geo:position>48.8925;2.3484</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-19.html</loc>
@@ -1107,14 +873,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8879</geo:latitude>
-        <geo:longitude>2.3844</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>19e arrondissement, Paris</geo:placename>
-        <geo:position>48.8879;2.3844</geo:position>
 </url>
 <url>
 <loc>https://assainissement75.fr/societe-assainissement-paris-20.html</loc>
@@ -1148,14 +906,6 @@
         <image:caption>Découvrez nos services d'urgence en assainissement et plomberie.</image:caption>
         <image:title>urgence assainissement Paris 75</image:title>
     </image:image>
-        <geo:geo>
-        <geo:format>decimal</geo:format>
-        <geo:latitude>48.8635</geo:latitude>
-        <geo:longitude>2.4019</geo:longitude>
-        </geo:geo>
-        <geo:region>ile-de-france</geo:region>
-        <geo:placename>20e arrondissement, Paris</geo:placename>
-        <geo:position>48.8635;2.4019</geo:position>
 </url>
 
 </urlset>
